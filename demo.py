@@ -15,7 +15,7 @@ def greet():
 
 
 def main():
-    root.title("Hello World")
+    root.title("Autodrone Configurator")
 
     # frames
     mainframe = tk.Frame(root)
